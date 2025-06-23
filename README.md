@@ -1,11 +1,4 @@
-# -
-兰州大学物理科学与技术学院课程攻略 Guidance for courses in School of Physical Science and Technology, Lanzhou University
-
-
-
-
-# 兰州大学物理系课程攻略
-
+# 兰州大学物理科学与技术学院课程攻略 Guidance for courses in School of Physical Science and Technology, Lanzhou University
 
 受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
 
@@ -33,7 +26,7 @@
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-如果希望匿名贡献，可以 email 至此邮箱，注明 "REKCARC-TSC-UHT" 即可：PKUanonymous@qq.com
+如果希望匿名贡献，可以 email 至此邮箱，注明 "REKCARC-TSC-UHT" 即可：<PKUanonymous@qq.com>
 
 贡献方法见 [贡献方法](贡献方法.md)
 
@@ -47,17 +40,13 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 ## 附录
 
-### 兰州大学学生纪律处分管理规定实施细则
+### 兰州大学学生违纪处分规定
 
 #### 第六章　学术不端、违反学习纪律的行为与处分
 
-第二十一条 有下列违反课程学习纪律情形之一的，给予警告以上、留校察看以下处分：
-
-（一）课程作业抄袭严重的；
-
-（二）实验报告抄袭严重或者篡改实验数据的；
-
-（三）期中、期末课程论文抄袭严重的；
-
-（四）在课程学习过程中严重弄虚作假的其他情形。
-
+- 第二十三条 违反学术纪律，被认定有学术不端行为者，
+    按照《兰州大学学术不端行为查处规则及处理办法》有关规
+    定给予相应处分。
+- 第二十五条 凡本规定中未列入的学生违纪行为，如确
+    需给予处分的，由学生管理部门会同违纪学生所在学院及有
+    关部门讨论研究，参照相近条款，给予相应处分。
