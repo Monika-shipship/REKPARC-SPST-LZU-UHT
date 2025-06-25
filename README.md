@@ -1,8 +1,15 @@
 # 兰州大学物理科学与技术学院课程攻略 Guidance for courses in School of Physical Science and Technology, Lanzhou University
 
-受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
+[![](https://img.shields.io/github/watchers/Monika-shipship/REKPARC-SPST-LZU-UHT.svg?style=flat)](https://github.com/Monika-shipship/REKPARC-SPST-LZU-UHT/watchers)
+[![](https://img.shields.io/github/stars/Monika-shipship/REKPARC-SPST-LZU-UHT.svg?style=flat)](https://github.com/PKUanonym/REKCARC-TSC-UHT/stargazers)
+[![](https://img.shields.io/github/forks/Monika-shipship/REKPARC-SPST-LZU-UHT.svg?style=flat)](https://github.com/PKUanonym/REKCARC-TSC-UHT/network/members)
+[![](https://img.shields.io/github/issues-pr-closed-raw/Monika-shipship/REKPARC-SPST-LZU-UHT.svg?style=flat)](https://github.com/PKUanonym/REKCARC-TSC-UHT/issues)
+![](https://img.shields.io/github/repo-size/Monika-shipship/REKPARC-SPST-LZU-UHT.svg?style=flat)
+[![Documentation Status](https://readthedocs.org/projects/rekcarc-tsc-uht/badge/?version=latest)](https://rekcarc-tsc-uht.readthedocs.io/en/latest/?badge=latest)
 
-<!-- 由于本仓库未启用 `git-lfs`，因此请不要上传单个超过 100M 的文件，否则 commit 无效。 -->
+受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/Monika-shipship/REKPARC-SPST-LZU-UHT)启发，创立了本项目。
+
+由于本仓库未启用 `git-lfs`，因此请不要上传单个超过 100M 的文件，否则 commit 无效。
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。
 
