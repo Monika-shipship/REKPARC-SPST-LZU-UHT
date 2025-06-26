@@ -33,7 +33,7 @@
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-如果希望匿名贡献，可以 email 至此邮箱，注明 "REKCARC-TSC-UHT" 即可：<PKUanonymous@qq.com>
+如果希望匿名贡献，可以 email 至此邮箱，注明 "REKCARC-TSC-UHT" 即可：<lzuanonymous@qq.com>
 
 贡献方法见 [贡献方法](贡献方法.md)
 

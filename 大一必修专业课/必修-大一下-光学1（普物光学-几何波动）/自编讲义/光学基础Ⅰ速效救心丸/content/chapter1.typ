@@ -810,7 +810,7 @@ $  n^(2) = 1 + B_1*lambda^(2)/(lambda^(2) - C_1) + B_2*lambda^(2)/(lambda^(2) - 
   + 因为是右旋偏振光，已有相位差 $delta_(#text[入])=pi/2$
     $ A_(2e ) = A_e cos 30 degree = sqrt(3)/2 A_e \ A_(2o) = A_o sin 30 degree = 1/2 A_o $
     $ I_o = 4 I_e , A_o = 2 A_e $
-    $ delta_(o e)= 2pi/lambda (n_e-n_e)d=- pi/3 $
+    $ delta_(o e)= 2pi/lambda (n_e-n_o)d=- pi/3 $
     在P处振动的两相位差为 $ delta = delta_(#text[入] + delta_(o e)=pi/6 $
     $ I_2 = A_(2e)^(2)+A_(2o)^(2) + 2A_(2e)^(2) A_(2o)^(2) cos delta = 13/4 I_e = 13/20 I_o $
   + 若改为左旋，则 $delta_(#text[入]= - pi/2$
