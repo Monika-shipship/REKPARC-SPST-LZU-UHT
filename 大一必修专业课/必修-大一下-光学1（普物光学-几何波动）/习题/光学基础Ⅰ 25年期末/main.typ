@@ -2,12 +2,12 @@
 
 #show: template.with(
   // 笔记标题
-  title: [LZU 热学基础Ⅰ 2025期末 ],
+  title: [LZU 光学基础Ⅰ 2025期末 ],
   // 在页眉展示的短标题（选填）
-  short-title: "热学作业",
+  short-title: "25光一期末",
   // 笔记描述（选填）
   description: [
-    本文档由“REKPARC-SPST-LZU-UHT” #link("https://github.com/Monika-shipship/REKPARC-SPST-LZU-UHT", box(height: 1.1em, baseline: 13.5%)[#image.decode(githubSvg)]) 项目组编写，如你也有相关笔记或资料，欢迎参与贡献!（点击上方github图标可跳转链接）
+    本文档由“REKPARC-SPST-LZU-UHT” #link("https://github.com/Monika-shipship/REKPARC-SPST-LZU-UHT", box(height: 1.1em, baseline: 13.5%)[#image.decode(githubSvg)]) 项目组编写，如你也有相关笔记或资料，欢迎参与贡献!（点击上方github图标可跳转链接）或者可以邮件传递你的资料:"lzuanonymous\@qq.com"
   ],
   // 笔记创建日期（选填）
   date: datetime(year: 2025, month: 4, day: 23),
