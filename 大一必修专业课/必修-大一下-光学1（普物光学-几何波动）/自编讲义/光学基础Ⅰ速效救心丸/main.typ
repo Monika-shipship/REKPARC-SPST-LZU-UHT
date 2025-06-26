@@ -7,7 +7,7 @@
   short-title: "光Ⅰ速效救心丸",
   // 笔记描述（选填）
   description: [
-    本文档由“REKPARC-SPST-LZU-UHT” #link("https://github.com/Monika-shipship/REKPARC-SPST-LZU-UHT", box(height: 1.1em, baseline: 13.5%)[#image.decode(githubSvg)]) 项目组编写，如你也有相关笔记或资料，欢迎参与贡献!（点击上方github图标可跳转链接）
+    本文档由“REKPARC-SPST-LZU-UHT” #link("https://github.com/Monika-shipship/REKPARC-SPST-LZU-UHT", box(height: 1.1em, baseline: 13.5%)[#image.decode(githubSvg)]) 项目组编写，如你也有相关笔记或资料，欢迎参与贡献!（点击上方github图标可跳转链接）或者可以邮件传递你的资料:"lzuanonymous\@qq.com"
   ],
   // 笔记创建日期（选填）
   date: datetime(year: 2025, month: 6, day: 24),
